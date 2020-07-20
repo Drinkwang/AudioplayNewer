@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: libs/json-jena-1.0.jar Msc。jar
+Main-Class: man.Motherfuck
