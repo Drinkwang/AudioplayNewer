@@ -5,6 +5,12 @@
 代码可能存在一些粗俗的命名，这些是因为当时情绪低落所致，没有别的含义，请勿介意。
 可自行修改，贩卖，改进，但如有可能尽可能开源，感谢
 BSD开源协议
+
+<p align="center">
+    <img width="400px" src="https://github.com/Drinkwang/drinkwang.github.io/blob/master/img/git.png?raw=true">    
+</p>
+
+
 2. Other Copyrights
 Portions of code are covered by the following copyrights:
 
