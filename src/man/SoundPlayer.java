@@ -17,15 +17,15 @@ public class SoundPlayer {
 	
 public static void main(String[] args) {
 	
-	 JFileChooser jfc = new JFileChooser();
+	JFileChooser jfc = new JFileChooser();
 	JFrame frame = new JFrame("人工合成");
-	  JTextField userText = new JTextField(20);
-      userText.setBounds(100,20,165,25);
+	JTextField userText = new JTextField(20);
+        userText.setBounds(100,20,165,25);
 frame.setLayout(new GridLayout(7,3));
-	JPanel j=new JPanel();
-	JPanel j2=new JPanel();
-	JLabel label=new JLabel("演讲人");
-	   JComboBox<String> comboBox=new JComboBox();  
+       JPanel j=new JPanel();
+       JPanel j2=new JPanel();
+       JLabel label=new JLabel("演讲人");
+       JComboBox<String> comboBox=new JComboBox();  
        comboBox.addItem("小燕");  
        comboBox.addItem("小雨");  
        comboBox.addItem("凯瑟琳");  
