@@ -13,7 +13,7 @@ import com.iflytek.cloud.speech.SpeechError;
 import com.iflytek.cloud.speech.SpeechSynthesizer;
 import com.iflytek.cloud.speech.SpeechUtility;
 import com.iflytek.cloud.speech.SynthesizerListener;
-public class Motherfuck {
+public class SoundPlayer {
 	
 public static void main(String[] args) {
 	
